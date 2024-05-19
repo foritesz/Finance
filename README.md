@@ -27,7 +27,6 @@ The application provides an overview of the total budget, expenses, and remainin
 
 - [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
 - Basic understanding of F# and web development.
-# Personal Finance Manager
 
 ## Usage
 
