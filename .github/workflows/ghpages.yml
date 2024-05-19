@@ -22,7 +22,7 @@ jobs:
       - name: Add GitHub registry NuGet source
         run: |
           dotnet nuget add source https://nuget.pkg.github.com/dotnet-websharper/index.json \
-            --name github \ workflows
+            --name github \
             --username foritesz \
             --password "${{ secrets.WEBSHARPER_FEED }}" \
             --store-password-in-clear-text
