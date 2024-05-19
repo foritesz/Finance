@@ -1,0 +1,1 @@
+document.write("<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.4.4/math.js\" type=\"text/javascript\" charset=\"UTF-8\"></script><!--[if lte IE 11.0]>\r\n<![endif]-->\r\n<!--[if lte IE 9.0]>\r\n<![endif]-->\r\n")
