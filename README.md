@@ -44,7 +44,7 @@ The application provides an overview of the total budget, expenses, and remainin
 
 ### Manage Stocks
 
-- **Enter:** the stock item/subjuct in the "Subjuct" field.
+- **Enter:** the stock item/subject in the "Subject" field.
 - **Enter:** the quantity in the "Quantity" field.
 - **Click:** the "Add Stock" button to add the stock.
 - **Click:** the "Remove Stock" button to remove the specified quantity of the stock.
